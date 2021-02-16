@@ -1,4 +1,5 @@
-// Adafruit IO Servo Example
+// MODIFIED BY MICHELLE LILLO MEZA
+//Adafruit IO Servo Example
 // Tutorial Link: https://learn.adafruit.com/adafruit-io-basics-servo
 //
 // Adafruit invests time and resources providing this open source code.
